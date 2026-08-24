@@ -63,7 +63,8 @@ The goal is to understand **why things work the way they do.**
 
 The repository follows a structured learning path from **basic → intermediate → advanced**.
 
-## 🔵 Phase 1 — Networking
+## 🔵 Phase 1 — Networking (Basic → Advanced)
+
 
 Build a strong networking foundation.
 
