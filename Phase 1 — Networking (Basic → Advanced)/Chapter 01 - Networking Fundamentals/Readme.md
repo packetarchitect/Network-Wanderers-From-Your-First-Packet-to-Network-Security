@@ -512,3 +512,29 @@ Before starting the next chapter, you should be able to explain these concepts *
 - Basic network communication flow
 
 If you can explain these concepts without memorizing the definitions, you're ready for the next chapter.
+
+---
+
+# 🚀 Next Chapter
+
+## Chapter 2 — OSI Model
+
+In the next chapter, we will break networking communication into seven layers and understand what happens to data as it moves through the network.
+```text
+Chapter 1
+What is a Network?
+       ↓
+Chapter 2
+OSI Model
+       ↓
+Chapter 3
+TCP/IP Model
+       ↓
+Chapter 4
+Encapsulation & Decapsulation
+       ↓
+```
+# 🌐 Keep Wandering
+> **Understand the layer. Understand the problem. Understand the network.**
+
+**Your first packet is only the beginning.**
