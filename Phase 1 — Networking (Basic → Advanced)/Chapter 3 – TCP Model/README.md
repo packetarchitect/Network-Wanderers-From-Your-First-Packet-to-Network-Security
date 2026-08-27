@@ -1228,33 +1228,6 @@ Try answering these without looking back:
 
 ---
 
-# 📚 Further Learning / Reference Topics
-
-The following topics are natural next steps after understanding the fundamentals in this chapter:
-
-- TCP congestion control
-- TCP error control
-- TCP connection termination
-- TCP/IP interview questions
-- TCP header analysis in Wireshark
-- TCP retransmissions
-- TCP windowing
-- TCP MSS and MTU
-- TCP Selective Acknowledgment
-- TCP connection states
-
-### Reference Material
-
-- [Firewall.cx – TCP](https://www.firewall.cx/networking-topics/protocols/tcp.html)
-- [GeeksforGeeks – Why TCP Connection Termination Needs a 4-Way Handshake](https://www.geeksforgeeks.org/why-tcp-connect-termination-need-4-way-handshake/)
-- [GeeksforGeeks – TCP Congestion Control](https://www.geeksforgeeks.org/tcp-congestion-control/)
-- [GeeksforGeeks – Error Control in TCP](https://www.geeksforgeeks.org/error-control-in-tcp/)
-- [GeeksforGeeks – What is Transmission Control Protocol (TCP)?](https://www.geeksforgeeks.org/what-is-transmission-control-protocol-tcp/)
-- [GeeksforGeeks – Top TCP/IP Interview Questions](https://www.geeksforgeeks.org/top-50-tcp-ip-interview-questions-and-answers/)
-- [JavaTpoint – TCP](https://www.javatpoint.com/tcp)
-
----
-
 # 🚀 Chapter Summary
 
 The TCP/IP model explains how modern network communication works from application data down to physical transmission.
