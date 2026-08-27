@@ -1,32 +1,5 @@
 # Chapter 3 – TCP/IP Model (Basic to Advanced)
 
-## Table of Contents
-
-- [What is the TCP/IP Model?](#what-is-the-tcpip-model)
-- [Why Do We Need TCP/IP?](#why-do-we-need-tcpip)
-- [OSI vs TCP/IP](#osi-vs-tcpip)
-- [TCP/IP Layers](#tcpip-layers)
-- [Application Layer](#1-application-layer)
-- [Transport Layer](#2-transport-layer)
-- [TCP](#tcp-transmission-control-protocol)
-- [UDP](#udp-user-datagram-protocol)
-- [TCP Three-Way Handshake](#tcp-three-way-handshake)
-- [TCP Four-Way Termination](#tcp-four-way-termination)
-- [TCP Flags](#tcp-flags)
-- [Internet Layer](#3-internet-layer)
-- [Network Access Layer](#4-network-access-layer)
-- [Encapsulation](#encapsulation)
-- [Decapsulation](#decapsulation)
-- [Complete Packet Flow](#complete-packet-flow)
-- [TCP Header](#tcp-header-format)
-- [TCP Flow and Error Control](#tcp-flow-and-error-control)
-- [TCP Connection Termination](#why-does-tcp-connection-termination-need-four-way-handshake)
-- [Real Firewall Example](#real-firewall-example)
-- [Troubleshooting](#troubleshooting-example)
-- [Interview Questions](#common-interview-questions)
-- [Interview Answer](#interview-answer-34-minutes)
-- [Gold Interview Tip](#gold-interview-tip)
-
 ---
 
 # What is the TCP/IP Model?
