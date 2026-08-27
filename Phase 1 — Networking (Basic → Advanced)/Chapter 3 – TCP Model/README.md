@@ -1228,40 +1228,35 @@ Try answering these without looking back:
 
 ---
 
-# 🚀 Chapter Summary
+🚀 Next Chapter
+After understanding the TCP/IP model, the next major topic is:
+Chapter 4 – Encapsulation, Decapsulation & Packet Flow
 
-The TCP/IP model explains how modern network communication works from application data down to physical transmission.
-
-The key concepts to remember are:
-
-```text
+This will build the bridge between:
 Application
-     ↓
-Transport
-     ↓
-Internet
-     ↓
-Network Access
-```
+      ↓
+TCP / UDP
+      ↓
+     IP
+      ↓
+     MAC
+      ↓
+   Ethernet
+      ↓
+Physical Transmission
+Understanding this flow is critical before moving into:
+- Switching
+- Routing
+- Firewalls
+- Packet captures
+- Wireshark
+- FortiGate
+- Palo Alto
+- Network troubleshooting
 
-And for TCP:
 
-```text
-SYN
-  ↓
-SYN + ACK
-  ↓
-ACK
-  ↓
-Data Transfer
-  ↓
-FIN
-  ↓
-ACK
-  ↓
-FIN
-  ↓
-ACK
-```
+# 🌐 Keep Wandering
 
-Understanding these concepts provides the foundation for later topics such as **routing, firewalls, NAT, VPNs, packet captures, FortiGate troubleshooting, and network security**.
+> **Understand the layer. Understand the problem. Understand the network.**
+
+**Your first packet is only the beginning.**
