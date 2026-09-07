@@ -74,7 +74,7 @@ Build a strong networking foundation.
 - OSI Model
 - TCP/IP Model
 - Encapsulation & Decapsulation
-- Ethernet
+- Ethernet, MAC Address & ARP
 - IPv4
 - IPv6
 - Subnetting
