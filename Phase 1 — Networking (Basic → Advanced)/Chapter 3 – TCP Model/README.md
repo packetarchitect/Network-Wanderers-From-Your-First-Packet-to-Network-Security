@@ -1,3 +1,5 @@
+# 📘 Module 1 – Networking Fundamentals
+
 # Chapter 3 – TCP/IP Model (Basic to Advanced)
 
 ---
