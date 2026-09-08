@@ -1,3 +1,5 @@
+# 📘 Module 1 – Networking Fundamentals
+
 # 🌐 Chapter 02 — OSI Model
 
 > **Understand the seven layers of network communication and learn how to use the OSI model to understand and troubleshoot networks.**
