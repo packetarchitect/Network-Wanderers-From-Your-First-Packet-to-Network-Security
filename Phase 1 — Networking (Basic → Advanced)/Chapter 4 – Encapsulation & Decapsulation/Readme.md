@@ -1,4 +1,4 @@
-📘 Module 1 – Networking Fundamentals
+# 📘 Module 1 – Networking Fundamentals
 
 # Chapter 4 – Encapsulation, Decapsulation & Packet Flow (Basic to Advanced)
 
