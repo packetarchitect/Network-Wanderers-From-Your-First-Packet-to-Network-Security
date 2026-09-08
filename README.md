@@ -75,7 +75,7 @@ Build a strong networking foundation.
 - TCP/IP Model
 - Encapsulation & Decapsulation
 - Ethernet, MAC Address & ARP
-- IPv4
+- IP Addressing, Subnetting & CIDR
 - IPv6
 - Subnetting
 - VLSM
