@@ -1,3 +1,5 @@
+# 📘 Module 1 – Networking Fundamentals
+
 ## Chapter 1: What is a Computer Network?
 
 ### Definition
