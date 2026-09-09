@@ -2,8 +2,6 @@
 
 # Chapter 9 – Spanning Tree Protocol (STP) – Complete Deep Dive
 
-> **Interview Importance:** ⭐⭐⭐⭐⭐ (10/10)
-
 ---
 
 # Learning Objectives
