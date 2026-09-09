@@ -955,24 +955,29 @@ IT PC → Management VLAN
 
 # 🚀 Next Chapter
 
-**Chapter 8 – Spanning Tree Protocol (STP) Deep Dive**
+**Chapter 8 – IPV6 Deep Dive**
 
 We'll cover:
 
-- Why loops occur
-- Broadcast storms
-- MAC table instability
-- STP algorithm
-- Root Bridge election
-- Root Port & Designated Port selection
-- Port states
-- Port roles
-- RSTP vs STP vs MSTP
-- BPDU
-- BPDU Guard
-- Root Guard
-- Loop Guard
-- PortFast
-- STP troubleshooting with real enterprise scenarios
+
+- Why IPv6 was created
+- IPv4 vs IPv6
+- IPv6 Address Structure
+- IPv6 Header
+- Types of IPv6 Addresses
+- Link-Local Address
+- Global Unicast
+- Unique Local Address (ULA)
+- Multicast
+- Anycast
+- Neighbor Discovery Protocol (NDP)
+- SLAAC
+- DHCPv6
+- ICMPv6
+- IPv6 Routing
+- IPv6 Security
+- Enterprise Use Cases
+- Interview Questions
+- Troubleshooting
 
 This is another **10/10 interview topic**, especially for Cisco, Fortinet, and enterprise networking roles.
