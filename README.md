@@ -79,11 +79,10 @@ Build a strong networking foundation.
 - Switching Deep Dive
 - IPv6
 - Spanning Tree Protocol (STP)
-- VLANs
-- VLAN Tagging
 - RSTP
 - MSTP
-- Switching
+- VLANs
+- VLAN Tagging
 - Routing
 - Static Routing
 - Dynamic Routing
