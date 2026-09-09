@@ -1590,46 +1590,36 @@ By the end of this chapter, you should confidently understand:
 
 # 🚀 Next Chapter
 
-## Chapter 6 – Switching Fundamentals, VLANs, Trunking & STP
+## Chapter 6 – IP Addressing, Subnetting & CIDR
 
-Next we move deeper into Layer 2 switching:
-
-```text
-Ethernet
-    ↓
-MAC Address
-    ↓
-MAC Table
-    ↓
-Switch
-    ↓
-VLAN
-    ↓
-Trunk
-    ↓
-STP
-```
 
 We will cover:
 
-- What a switch does internally
-- Access ports
-- Trunk ports
-- VLANs
-- 802.1Q tagging
-- Native VLAN
-- Inter-VLAN communication
-- Router-on-a-Stick
-- Layer 3 switching
-- Broadcast domains
-- Collision domains
-- STP
-- Root Bridge
-- STP port states
-- VLAN/STP troubleshooting
-- Real enterprise switch/firewall scenarios
+What is an IP Address?
+Why IP Addressing is Required
+IPv4 Address Structure
+Binary and Decimal Representation
+Network ID & Host ID
+Classful Addressing (Class A, B, C, D, E)
+Classless Addressing (CIDR)
+Public vs Private IP Addresses
+IPv4 Address Types
+Loopback Addresses
+APIPA (Automatic Private IP Addressing)
+Link-Local Addresses
+Default Gateway
+Network Address
+Broadcast Address
+Subnet Masks
+CIDR Notation
+Subnetting Fundamentals
+Fixed Length Subnet Mask (FLSM)
+Variable Length Subnet Mask (VLSM)
+Supernetting
+Route Summarization
+Wildcard Masks
 
-This becomes the foundation for understanding **enterprise LAN architecture**.
+and much more..
 
 ---
 
