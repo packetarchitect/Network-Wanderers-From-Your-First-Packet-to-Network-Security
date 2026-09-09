@@ -76,6 +76,7 @@ Build a strong networking foundation.
 - Encapsulation & Decapsulation
 - Ethernet, MAC Address & ARP
 - IP Addressing, Subnetting & CIDR
+- Switching Deep Dive
 - IPv6
 - Subnetting
 - VLSM
