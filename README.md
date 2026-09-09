@@ -78,9 +78,9 @@ Build a strong networking foundation.
 - IP Addressing, Subnetting & CIDR
 - Switching Deep Dive
 - IPv6
+- Spanning Tree Protocol (STP)
 - VLANs
 - VLAN Tagging
-- STP
 - RSTP
 - MSTP
 - Switching
