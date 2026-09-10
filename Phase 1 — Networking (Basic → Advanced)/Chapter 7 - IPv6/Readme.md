@@ -29,7 +29,7 @@ By the end of this chapter, you will understand:
 
 ---
 
-# 1. 8.1 Why Was IPv6 Introduced?
+# 1. 7.1 Why Was IPv6 Introduced?
 
 The biggest reason:
 
@@ -105,7 +105,7 @@ Enough addresses for the foreseeable future.
 
 ---
 
-# 3. 8.2 IPv6 Address Format
+# 3. 7.2 IPv6 Address Format
 
 Example:
 ```
@@ -163,7 +163,7 @@ Becomes:
 
 ---
 
-# 5. 8.3 IPv6 Address Types
+# 5. 7.3 IPv6 Address Types
 
 There are five major address types.
 
@@ -260,7 +260,7 @@ Used by:
 
 ---
 
-# 6. 8.4 No Broadcast in IPv6
+# 6. 7.4 No Broadcast in IPv6
 
 IPv4 uses:
 ```
@@ -281,7 +281,7 @@ Benefits:
 
 ---
 
-# 7. 8.5 Neighbor Discovery Protocol (NDP)
+# 7. 7.5 Neighbor Discovery Protocol (NDP)
 
 One of the most important interview questions.
 
@@ -322,7 +322,7 @@ It uses **ICMPv6** messages.
 
 ---
 
-# 9. 8.6 SLAAC (Stateless Address Auto Configuration)
+# 9. 7.6 SLAAC (Stateless Address Auto Configuration)
 
 Imagine a laptop joins an IPv6 network.
 
@@ -345,7 +345,7 @@ No DHCP server required.
 
 ---
 
-# 10. 8.7 DHCPv6
+# 10. 7.7 DHCPv6
 
 Similar to DHCP in IPv4.
 
@@ -360,7 +360,7 @@ Can operate alongside SLAAC depending on network design.
 
 ---
 
-# 11. 8.8 ICMPv6
+# 11. 7.8 ICMPv6
 
 IPv6 relies heavily on ICMPv6.
 
@@ -376,7 +376,7 @@ Blocking ICMPv6 indiscriminately can break IPv6 functionality.
 
 ---
 
-# 12. 8.9 IPv6 Header
+# 12. 7.9 IPv6 Header
 
 IPv4 header:
 
@@ -397,7 +397,7 @@ Advantages:
 
 ---
 
-# 13. 8.10 Enterprise Example
+# 13. 7.10 Enterprise Example
 
 An ISP receives:
 ```
@@ -416,7 +416,7 @@ Each VLAN receives its own IPv6 subnet.
 
 ---
 
-# 14. 8.11 Security Considerations
+# 14. 7.11 Security Considerations
 
 Common IPv6 threats:
 
