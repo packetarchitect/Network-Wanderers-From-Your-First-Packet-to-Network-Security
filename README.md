@@ -76,13 +76,11 @@ Build a strong networking foundation.
 - Encapsulation & Decapsulation
 - Ethernet, MAC Address & ARP
 - IP Addressing, Subnetting & CIDR
-- Switching Deep Dive
 - IPv6
+- Switching Deep Dive (VLAN, Trunking, DTP, VTP, EtherChannel, Security)
 - Spanning Tree Protocol (STP)
 - RSTP
 - MSTP
-- VLANs
-- VLAN Tagging
 - Routing
 - Static Routing
 - Dynamic Routing
