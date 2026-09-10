@@ -796,28 +796,6 @@ For each VLAN document:
 
 # 🚀 Next Chapter
 
-## **Chapter 9 – Spanning Tree Protocol (STP) – Complete Deep Dive**
-
-We'll cover:
-
-- Why switching loops occur
-- Broadcast storms
-- MAC table instability
-- STP algorithm
-- Root Bridge election
-- Root Port
-- Designated Port
-- Blocked/Alternate ports
-- BPDU
-- Port states
-- Convergence
-- Real enterprise examples
-- Packet flow
-- Troubleshooting
-- Interview scenarios
-
-This is one of the **highest-priority networking interview topics** and a must-know before moving deeper into routing and network security.
-
 # 📘 Module 2 – Switching
 
 # **Chapter 8 \-- Switching Deep Dive**
@@ -858,19 +836,3 @@ Enterprise Switching Design
         ↓
 Switch Troubleshooting
 ```
-
-The bridge from this chapter is:
-
-``` text
-IP Addressing
-      ↓
-Subnetting
-      ↓
-VLAN Segmentation
-      ↓
-Switching
-      ↓
-Inter-VLAN Routing
-      ↓
-Firewall Policy
-```This is one of the **highest-priority networking interview topics** and a must-know before moving deeper into routing and network security.
