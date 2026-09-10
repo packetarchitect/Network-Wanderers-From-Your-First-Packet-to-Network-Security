@@ -1,6 +1,6 @@
-# 📘 Module 1 – Networking Fundamentals
+# 📘 Module 2 – Switching
 
-# Chapter 11 – Spanning Tree Protocol (STP) – Complete Deep Dive
+# Chapter 9 – Spanning Tree Protocol (STP) – Complete Deep Dive
 
 ---
 
@@ -952,7 +952,7 @@ Try to explain the complete STP process in **3 minutes**.
 
 # 🚀 Next Chapter
 
-## **Chapter 12 – Rapid Spanning Tree Protocol (RSTP)**
+## **Chapter 10 – Rapid Spanning Tree Protocol (RSTP)**
 
 We'll cover:
 
