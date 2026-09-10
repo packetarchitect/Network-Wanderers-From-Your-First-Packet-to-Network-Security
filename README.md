@@ -81,7 +81,7 @@ Build a strong networking foundation.
 - Spanning Tree Protocol (STP)
 - RSTP
 - MSTP
-- Routing
+- Routing Fundamentals
 - Static Routing
 - Dynamic Routing
 - RIP
