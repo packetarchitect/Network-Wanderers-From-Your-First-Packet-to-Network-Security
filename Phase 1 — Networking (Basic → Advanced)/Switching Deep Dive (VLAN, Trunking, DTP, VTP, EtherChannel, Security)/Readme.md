@@ -1,6 +1,6 @@
 # 📘 Module 2 – Switching
 
-# Chapter 7 – Switching Deep Dive
+# Chapter 8 – Switching Deep Dive (VLAN, Trunking, DTP, VTP, EtherChannel, Security)
 
 ---
 
@@ -25,7 +25,7 @@ By the end of this chapter, you will understand:
 
 ---
 
-# 1. 7.1 How Does a Switch Work?
+# 1. 8.1 How Does a Switch Work?
 
 Imagine a company with 100 employees.
 ```
@@ -100,7 +100,7 @@ Switch Learns MAC
 
 ---
 
-# 4. 7.2 What is a VLAN?
+# 4. 8.2 What is a VLAN?
 
 **VLAN = Virtual Local Area Network**
 
@@ -180,7 +180,7 @@ Benefits:
 
 ---
 
-# 7. 7.3 Broadcast Domain
+# 7. 8.3 Broadcast Domain
 
 Without VLANs:
 ```
@@ -214,7 +214,7 @@ Broadcasts stay within each VLAN.
 
 ---
 
-# 8. 7.4 Access Port
+# 8. 8.4 Access Port
 
 An Access Port belongs to **one VLAN only**.
 
@@ -242,7 +242,7 @@ interface GigabitEthernet0/1
 
 ---
 
-# 9. 7.5 Trunk Port
+# 9. 8.5 Trunk Port
 
 A Trunk Port carries **multiple VLANs** between network devices.
 
@@ -267,7 +267,7 @@ Carries:
 
 ---
 
-# 10. 7.6 IEEE 802.1Q (VLAN Tagging)
+# 10. 8.6 IEEE 802.1Q (VLAN Tagging)
 
 Entity: IEEE 802.1Q
 
@@ -324,7 +324,7 @@ Valid VLAN range:
 
 ---
 
-# 12. 7.7 Native VLAN
+# 12. 8.7 Native VLAN
 
 The Native VLAN is the VLAN whose frames are sent **without an 802.1Q tag** on a trunk.
 
@@ -345,7 +345,7 @@ Best Practice:
 
 ---
 
-# 13. 7.8 Inter-VLAN Routing
+# 13. 8.8 Inter-VLAN Routing
 
 Question:
 
@@ -378,7 +378,7 @@ Firewall can also apply security policies between VLANs.
 
 ---
 
-# 14. 7.9 DTP (Dynamic Trunking Protocol)
+# 14. 8.9 DTP (Dynamic Trunking Protocol)
 
 Entity: Dynamic Trunking Protocol
 
@@ -405,7 +405,7 @@ switchport nonegotiate
 
 ---
 
-# 15. 7.10 VTP (VLAN Trunking Protocol)
+# 15. 8.10 VTP (VLAN Trunking Protocol)
 
 Entity: VLAN Trunking Protocol
 
@@ -431,7 +431,7 @@ Many enterprises use **Transparent Mode** or avoid VTP unless centralized VLAN m
 
 ---
 
-# 16. 7.11 EtherChannel
+# 16. 8.11 EtherChannel
 
 Problem:
 
@@ -462,7 +462,7 @@ Benefits:
 
 ---
 
-# 17. 7.12 LACP vs PAgP
+# 17. 8.12 LACP vs PAgP
 
 ### LACP
 
@@ -504,7 +504,7 @@ Used only between Cisco devices.
 
 ---
 
-# 19. 7.13 VLAN Hopping Attack
+# 19. 8.13 VLAN Hopping Attack
 
 Attackers try to access traffic from another VLAN.
 
@@ -531,7 +531,7 @@ switchport trunk allowed vlan 10,20,30
 
 ---
 
-# 21. 7.14 Switch Security Best Practices
+# 21. 8.14 Switch Security Best Practices
 
 - Disable unused ports
 - Enable Port Security
@@ -667,7 +667,7 @@ To:
 
 ---
 
-# 📝 Chapter 7 Quick Revision
+# 📝 Chapter 8 Quick Revision
 
 ✅ Switch learns MAC addresses from the **source MAC**.  
 ✅ CAM Table = **MAC → Port**.  
@@ -955,29 +955,25 @@ IT PC → Management VLAN
 
 # 🚀 Next Chapter
 
-**Chapter 8 – IPV6 Deep Dive**
+## **Chapter 9 – Spanning Tree Protocol (STP) – Complete Deep Dive**
 
 We'll cover:
 
-
-- Why IPv6 was created
-- IPv4 vs IPv6
-- IPv6 Address Structure
-- IPv6 Header
-- Types of IPv6 Addresses
-- Link-Local Address
-- Global Unicast
-- Unique Local Address (ULA)
-- Multicast
-- Anycast
-- Neighbor Discovery Protocol (NDP)
-- SLAAC
-- DHCPv6
-- ICMPv6
-- IPv6 Routing
-- IPv6 Security
-- Enterprise Use Cases
-- Interview Questions
+- Why switching loops occur
+- Broadcast storms
+- MAC table instability
+- STP algorithm
+- Root Bridge election
+- Root Port
+- Designated Port
+- Blocked/Alternate ports
+- BPDU
+- Port states
+- Convergence
+- Real enterprise examples
+- Packet flow
 - Troubleshooting
+- Interview scenarios
 
-This is another **10/10 interview topic**, especially for Cisco, Fortinet, and enterprise networking roles.
+This is one of the **highest-priority networking interview topics** and a must-know before moving deeper into routing and network security.
+
