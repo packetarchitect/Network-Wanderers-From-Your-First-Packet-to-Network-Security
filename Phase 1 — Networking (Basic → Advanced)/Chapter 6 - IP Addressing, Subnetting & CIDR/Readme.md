@@ -2128,60 +2128,30 @@ Broadcast = Address immediately before next subnet
 
 # 🚀 Next Chapter
 
-# **Chapter 7 \-- Switching Deep Dive**
+**Chapter 7 – IPV6 Deep Dive**
 
-In the next chapter, we move deeper into Layer 2 switching and
-enterprise switching.
+We'll cover:
 
-We will cover:
 
-``` text
-Switching Fundamentals
-        ↓
-VLANs
-        ↓
-Access Ports
-        ↓
-Trunk Ports
-        ↓
-802.1Q
-        ↓
-Native VLAN
-        ↓
-DTP
-        ↓
-VTP
-        ↓
-EtherChannel
-        ↓
-LACP
-        ↓
-PAgP
-        ↓
-VLAN Hopping
-        ↓
-Switch Security
-        ↓
-Enterprise Switching Design
-        ↓
-Switch Troubleshooting
-```
-
-The bridge from this chapter is:
-
-``` text
-IP Addressing
-      ↓
-Subnetting
-      ↓
-VLAN Segmentation
-      ↓
-Switching
-      ↓
-Inter-VLAN Routing
-      ↓
-Firewall Policy
-```
+- Why IPv6 was created
+- IPv4 vs IPv6
+- IPv6 Address Structure
+- IPv6 Header
+- Types of IPv6 Addresses
+- Link-Local Address
+- Global Unicast
+- Unique Local Address (ULA)
+- Multicast
+- Anycast
+- Neighbor Discovery Protocol (NDP)
+- SLAAC
+- DHCPv6
+- ICMPv6
+- IPv6 Routing
+- IPv6 Security
+- Enterprise Use Cases
+- Interview Questions
+- Troubleshooting
 
 ------------------------------------------------------------------------
 
