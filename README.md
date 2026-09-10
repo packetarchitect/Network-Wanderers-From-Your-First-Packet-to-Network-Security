@@ -65,11 +65,11 @@ The repository follows a structured learning path from **basic → intermediate 
 
 ## 🔵 Phase 1 — Networking (Basic → Advanced)
 
-
 Build a strong networking foundation.
 
 ### Topics
 
+📘 Module 1 – Networking Fundamentals
 - Networking Fundamentals
 - OSI Model
 - TCP/IP Model
@@ -77,10 +77,14 @@ Build a strong networking foundation.
 - Ethernet, MAC Address & ARP
 - IP Addressing, Subnetting & CIDR
 - IPv6
+  
+📘 Module 2 – Switching 
 - Switching Deep Dive (VLAN, Trunking, DTP, VTP, EtherChannel, Security)
 - Spanning Tree Protocol (STP)
 - RSTP
 - MSTP
+
+📘 Module 3 – Routing 
 - Routing Fundamentals
 - Static Routing
 - Dynamic Routing
