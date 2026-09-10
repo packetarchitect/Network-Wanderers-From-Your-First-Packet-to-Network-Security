@@ -1,4 +1,4 @@
-# 📘 Module 1 – Networking Fundamentals
+# 📘 Module 2 – Switching
 
 # Chapter 7 – Switching Deep Dive
 
