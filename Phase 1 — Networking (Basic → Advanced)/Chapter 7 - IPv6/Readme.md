@@ -1,6 +1,6 @@
 # 📘 Module 1 – Networking Fundamentals
 
-# Chapter 8 – IPv6 (Complete Deep Dive)
+# Chapter 7 – IPv6 (Complete Deep Dive)
 ---
 
 # Learning Objectives
@@ -818,26 +818,59 @@ We'll cover:
 
 This is one of the **highest-priority networking interview topics** and a must-know before moving deeper into routing and network security.
 
+# 📘 Module 2 – Switching
 
+# **Chapter 8 \-- Switching Deep Dive**
 
-## **Chapter 9 – Spanning Tree Protocol (STP) – Complete Deep Dive**
+In the next chapter, we move deeper into Layer 2 switching and
+enterprise switching.
 
-We'll cover:
+We will cover:
 
-- Why switching loops occur
-- Broadcast storms
-- MAC table instability
-- STP algorithm
-- Root Bridge election
-- Root Port
-- Designated Port
-- Blocked/Alternate ports
-- BPDU
-- Port states
-- Convergence
-- Real enterprise examples
-- Packet flow
-- Troubleshooting
-- Interview scenarios
+``` text
+Switching Fundamentals
+        ↓
+VLANs
+        ↓
+Access Ports
+        ↓
+Trunk Ports
+        ↓
+802.1Q
+        ↓
+Native VLAN
+        ↓
+DTP
+        ↓
+VTP
+        ↓
+EtherChannel
+        ↓
+LACP
+        ↓
+PAgP
+        ↓
+VLAN Hopping
+        ↓
+Switch Security
+        ↓
+Enterprise Switching Design
+        ↓
+Switch Troubleshooting
+```
 
-This is one of the **highest-priority networking interview topics** and a must-know before moving deeper into routing and network security.
+The bridge from this chapter is:
+
+``` text
+IP Addressing
+      ↓
+Subnetting
+      ↓
+VLAN Segmentation
+      ↓
+Switching
+      ↓
+Inter-VLAN Routing
+      ↓
+Firewall Policy
+```This is one of the **highest-priority networking interview topics** and a must-know before moving deeper into routing and network security.
